@@ -1,5 +1,15 @@
-# CS523P3PART1_DCGAN
-CS523 Project3 Part1
+
+# DCGAN Implementation
+
+## Introduction
+We have used an existing Deep Convolutional Generative Adversarial Networks repo to train the MNIST database to understand the working/ architecture of standard GAN.
+
+## Requirements
+
+* Tensorflow 1.1
+* MNIST dataset
+
+
 
 
 # Results
