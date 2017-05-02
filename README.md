@@ -7,7 +7,9 @@ We have used an existing [Deep Convolutional Generative Adversarial Networks rep
 ## Requirements
 
 * Tensorflow 1.1
+* Tensorflow slim library
 * MNIST dataset
+
 
 ## Network
 
